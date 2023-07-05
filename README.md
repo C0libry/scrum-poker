@@ -1,2 +1,2 @@
-# Scrum Poker 🎰🃏 repository. 
+# Scrum Poker 🎰🃏 repository
 ## ITPELAG summer practice
