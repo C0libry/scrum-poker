@@ -1,1 +1,1 @@
-# scrum poker project
+# scrum poker repository
