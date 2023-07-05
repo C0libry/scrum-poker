@@ -1,1 +1,1 @@
-# scram-poker
+# scrum poker project
